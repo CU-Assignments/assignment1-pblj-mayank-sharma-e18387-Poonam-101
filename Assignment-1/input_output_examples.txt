@@ -1,17 +1,17 @@
-##PROBLEM 1
-
-###Sample Input :
-Enter a string: Hello World 2024!
+PROBLEM 1
+//22BCS14608-POONAM
+Sample Input :
+Enter a string: Poonam 2024!
 
 ###Sample Output :
 Vowels: 3
-Consonants: 7
+Consonants: 3
 Digits: 4
-Special Characters: 3
+Special Characters: 1
 
 
-##PROBLEM 2
-###Sample Input:
+-PROBLEM 2
+Sample Input:
 
 Enter the number of rows for Matrix 1:
 2
@@ -33,7 +33,7 @@ Enter the elements of Matrix 2:
 7
 8
 
-###Sample Output:
+Sample Output:
 
 Addition:
 6 8
@@ -47,8 +47,8 @@ Multiplication:
 19 22
 43 50
 
-##PROBLEM 3
-###Sample Input:
+PROBLEM 3
+Sample Input:
 
 Create Account:
 Name: Alice Johnson
